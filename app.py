@@ -1,6 +1,6 @@
-import streamlit as st
 import pickle
 import streamlit as st
+from sklearn.tree import plot_tree
 from PIL import Image
 import os
 import pandas as pd
