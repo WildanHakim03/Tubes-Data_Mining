@@ -1,3 +1,4 @@
+import streamlit as st
 import pickle
 import streamlit as st
 from sklearn.tree import plot_tree
